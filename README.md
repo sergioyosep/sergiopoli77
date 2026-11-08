@@ -42,7 +42,7 @@
 
 <div align="center">
 
-> *"GACORRRRRR"* — Matt Mullenweg
+> *"GACORRRRRR"* — SERGIO YOSEP POLI
 
 <br/>
 <!-- FOOTER WAVE -->
