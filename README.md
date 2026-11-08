@@ -42,7 +42,7 @@
 
 <div align="center">
 
-> *"GACORRRRRR"* — SERGIO YOSEP POLI
+> *"Jika besok kau mencariku, cari aku di rasa sesalmu, ADIOSSSS"* — SERGIO YOSEP POLI
 
 <br/>
 <!-- FOOTER WAVE -->
