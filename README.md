@@ -1,6 +1,6 @@
 <div align="center">
 <!-- ANIMATED HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Sergio Yosep%20Poli&fontSize=75&fontColor=61DAFB&fontAlignY=45&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=220&section=header&text=Sergio%20Yosep%20Poli&fontSize=75&fontColor=61DAFB&fontAlignY=45&animation=fadeIn" />
 <!-- PROFILE VIEWS -->
 <img src="https://komarev.com/ghpvc/?username=sergiopoli77&style=for-the-badge&color=61DAFB&label=PROFILE+VIEWS&labelColor=0D1117" />
 &nbsp;
