@@ -42,7 +42,7 @@
 
 <div align="center">
 
-> *"Technology is best when it brings people together."* — Matt Mullenweg
+> *"GACORRRRRR"* — Matt Mullenweg
 
 <br/>
 <!-- FOOTER WAVE -->
