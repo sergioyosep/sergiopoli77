@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
 </a>
 &nbsp;
-<a href="https://instagram.com/sergiooyp">
+<a href="https://instagram.com/sergioyosep">
   <img src="https://img.shields.io/badge/Instagram-@sergiooyp-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117"/>
 </a>
 &nbsp;
